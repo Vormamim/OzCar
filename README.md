@@ -5,6 +5,23 @@ You are going to need to pip install some extensions
 
 py -m pip install xxxx
 
+# Read the Docs
+There are a number of explainers about this set of sandbox code
+
+1. Stuctured Workflow - you need to work on this. Get organised, test and make sure everyone can do it well
+2. gitCommands - The process for running Git in a project. Use it to get familiar with doing it everyday
+3. MusicSandbox - TWO parts, dataclearning.py which relates to the ReadTheDocs information
+4. Lambda - More advanced way of managing simple functions
+5. musicData.py - an example of how to filter dataframes
+6. Jupyther Notebooks - these are like 'building blocks' of code which you can use to do analysis. Read the docs
+7. Music.csv is used for the above
+
+# Project Code
+1. Cars.csv - your database
+2. main.py - starter sandbox of code to help you get started
+3. readShowData.py - the basic code to load in data and show a sample of what is in it.
+
+
 ## This is a Data Science Project
 It is all about creating algorithms and functions to return information
 from a large data set. To do this, you will explore 'libraries' and 'snippets'
